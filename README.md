@@ -1,5 +1,18 @@
-```mermaid
+# Decision Tree Guide to forecasting and optimizing your GenAI services in Cloud! 🚀
+Built on FinOps Foundation research, this framework guides organizations through the three-way balance between cost efficiency, technical performance, and business impact.
 
+<b>Key Features:</b><br>
+Parallel Decision-Making: Evaluate budget, technical capabilities, data privacy, and business drivers simultaneously<br>
+Quantified Optimization: Specific savings targets (20-40% from caching, 40-70% from routing, 30-200X total optimization potential)<br>
+Four-Phase Approach: Initial assessment → Strategic alignment → Optimization strategy → Governance & monitoring<br>
+Actionable Thresholds: 90%+ GPU utilization targets, ±5% forecast accuracy, 3:1 ROI minimums<br>
+Platform Agnostic: Covers third-party APIs (OpenAI, Anthropic), cloud providers (AWS Bedrock, Azure OpenAI, GCP Vertex), and DIY solutions<br><br>
+
+I'm currently testing this logic flow and welcome feedback! 
+### The Framework logic:
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'100px'}}}%%
 graph TD
     Start[AI Services Cost Forecasting Decision] --> Phase1[Phase 1: Initial Assessment]
 
